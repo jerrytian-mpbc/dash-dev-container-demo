@@ -33,7 +33,7 @@ This project is a simple demo to showcase developing a Python Dash application *
 
 1. **Clone this repository:**
    ```bash
-   git clone <repository-url>
+   git clone <repository-url> dash-demo
    cd dash-demo
    ```
 
