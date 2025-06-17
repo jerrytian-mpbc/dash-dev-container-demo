@@ -49,7 +49,7 @@ This project is a simple demo to showcase developing a Python Dash application *
    - Open a terminal in VS Code (inside the container)
    - Run:
      ```bash
-     python dash_plotting_demo.py
+     python3.12 dash_plotting_demo.py
      ```
    - Open your browser at [http://localhost:8050](http://localhost:8050)
 
